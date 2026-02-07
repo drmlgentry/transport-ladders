@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+.venv*/
+.build/
+dist/
+*.egg-info/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Output artifacts
+output/
